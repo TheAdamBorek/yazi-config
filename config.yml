@@ -1,0 +1,4 @@
+commands:
+  - key: e # You can use a different key if needed
+    cmd: nvim {path} # Replace {path} with the path to the file
+    mode: default
